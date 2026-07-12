@@ -7,7 +7,7 @@ async function solve() {
 
     try {
 
-        const response = await fetch("https://api.meshapi.ai/v1/chazt/completions", {
+        const response = await fetch("https://api.meshapi.ai/v1/chat/completions", {
 
             method: "POST",
 
