@@ -15,7 +15,7 @@ async function solve() {
 
                 "Content-Type": "application/json",
 
-                "Authorization": "Bearer YOUR_MESH_API_KEY"
+                "Authorization": "Bearer rsk_01KXAX23E8C4ZE6YVJ49R6TR6T"
 
             },
 
